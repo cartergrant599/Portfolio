@@ -14,7 +14,7 @@
     "@react-three/drei": "^9.56.24",
     "@react-three/fiber": "^8.11.1",
     "@remix-run/react": "^2.2.0",
-    "caniuse-lite": "^1.0.30001561",
+    "caniuse-lite": "^1.0.30001669",
     "framer-motion": "^9.0.7",
     "heroicons": "^2.0.18",
     "lucide-react": "^0.292.0",
@@ -39,6 +39,6 @@
   },
   "description": "![3D Portfolio](https://i.ibb.co/9ykhLtM/Thumbnail.png)",
   "main": "vite.config.js",
-  "author": "MathiasMendoza",
+  "author": "CarterGrant",
   "license": "ISC"
 }

@@ -33,7 +33,12 @@ import sczCollege from "./company/sczCollege.png";
 import multicenter from './company/multicenter.jpeg';
 import puertomaderologo from "./company/puertomadero.jpg";
 import bluespace from './company/bluespace.png';
-import fiverr from './company/fiverr.png'
+import fiverr from './company/fiverr.png';
+import tkt from './company/tkt.jpg';
+import hku from './company/hku.jpg';
+import storecove from './company/storecove.jpg';
+import oneforma from './company/oneforma.jpg';
+import scopic from './company/scopic.jpg';
 
 import electrisearch from './electrisearch.png'
 import mypurplespace from "./mypurplespace.png";
@@ -42,6 +47,8 @@ import spaceplush from "./spaceplush.png";
 import selfDrivingCar from './selfDrivingCar.png';
 import myPortfolio from './myPortfolio.png'
 import bialetti from './bialetti.png'
+
+import cv from './cv.pdf';
 
 export {
   logo,
@@ -78,11 +85,17 @@ export {
   puertomaderologo,
   bluespace,
   fiverr,
+  tkt,
+  hku,
+  storecove,
+  oneforma,
+  scopic,
   electrisearch,
   mypurplespace,
   puertomadero,
   spaceplush,
   selfDrivingCar,
   myPortfolio,
-  bialetti
+  bialetti,
+  cv
 };
