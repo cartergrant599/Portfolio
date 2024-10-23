@@ -31,9 +31,16 @@ import {
   multicenter,
   puertomadero,
   spaceplush,
+  scopic,
+  oneforma,
+  storecove,
+  hku,
+  tkt,
   selfDrivingCar,
   myPortfolio,
   bialetti,
+  aionair,
+  genius,
   threejs,
 } from "../assets";
 
@@ -142,7 +149,7 @@ const experiences = [
   {
     title: "Full Stack Developer",
     company_name: "Scopic - Remote in Amsterdam, North Holland",
-    icon: bluespace,
+    icon: scopic,
     iconBg: "#ffff",
     date: "January 2022 - Present",
     points: [
@@ -159,8 +166,8 @@ const experiences = [
   {
     title: "Frontend Developer",
     company_name: "OneForma - Remote in West Loop, Chicago",
-    icon: puertomaderologo,
-    iconBg: "#071b43",
+    icon: oneforma,
+    iconBg: "#ffff",
     date: "July 2021 - November 2022",
     points: [
       // "Implemented complex user interfaces using advanced ReactJs, NextJs, Python, TailwindCss, Typescript, etc.",
@@ -175,8 +182,8 @@ const experiences = [
   {
     title: "Junior Web Developer",
     company_name: "Storecove - Remote in Hilversum, North Holland",
-    icon: multicenter,
-    iconBg: "#ffd300",
+    icon: storecove,
+    iconBg: "#ffff",
     date: "April 2019 - June 2021",
     points: [
       // "Developed cross-platform web applications using MERN Stack",
@@ -195,8 +202,8 @@ const educations = [
   {
     title: "Full Stack Web Development Co-op Course",
     company_name: "The University of Hong Kong - Pok Fu Lam, Hong Kong",
-    icon: cornerstone,
-    iconBg: "#283b8a",
+    icon: hku,
+    iconBg: "#ffff",
     date: "April 2015 - March 2019",
     points: [
       "Worked with various programming languages and frameworks, such as React, React Native, and Node.js.",
@@ -207,8 +214,8 @@ const educations = [
   {
     title: "Web Development Course",
     company_name: "Tai Kok Tsui Catholic Primary School - Tai Kok Tsui, Hong Kong",
-    icon: sczCollege,
-    iconBg: "#036838",
+    icon: tkt,
+    iconBg: "#ffff",
     date: "April 2012 - March 2015",
     points: [
       "Learned basic knowledge of computer science.",
@@ -246,6 +253,89 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "Genius-AI",
+    description:
+      "The GeniusAI likely showcases AI-powered solutions or services, featuring a frontend built with frameworks like React or Next.js for an interactive user experience. It could leverage machine learning models on the backend, using Node.js, to provide personalized insights, automation, or predictive analytics for users.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "next",
+        color: "text-white-600",
+      },
+      {
+        name: "node.js",
+        color: "text-yellow-600",
+      },
+      {
+        name: "redux",
+        color: "text-green-600",
+      },
+      {
+        name: "zustand",
+        color: "text-purple-600",
+      },
+      {
+        name: "tensorFlow.js",
+        color: "text-white-600",
+      },
+      {
+        name: "material-ui",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "postgreSQL",
+        color: "text-blue-600",
+      },
+    ],
+    image: genius,
+    source_code_link: "https://github.com/cartergrant599/genius-ai",
+  },
+  {
+    name: "Aionair",
+    description:
+      "The Aionair likely tracks and displays real-time air quality data using a responsive frontend built with React or Next.js, while its backend integrates with sensors or APIs to fetch and store air quality information in a database like MongoDB. It provides users with a clean interface to monitor and analyze air quality trends.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "next",
+        color: "text-white-600",
+      },
+      {
+        name: "convex",
+        color: "text-blue-600",
+      },
+      {
+        name: "clerk",
+        color: "text-green-600",
+      },
+      {
+        name: "openAI",
+        color: "text-grey-600",
+      },
+      {
+        name: "ShadCN",
+        color: "text-purple-600",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "mongoDB",
+        color: "text-yellow-600",
+      },
+    ],
+    image: aionair,
+    live_version_link: "https://aionair.vercel.app/",
+    source_code_link: "https://github.com/cartergrant599/aionair",
+  },
   {
     name: "Self Driving Car",
     description:

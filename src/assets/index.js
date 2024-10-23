@@ -47,6 +47,8 @@ import spaceplush from "./spaceplush.png";
 import selfDrivingCar from './selfDrivingCar.png';
 import myPortfolio from './myPortfolio.png'
 import bialetti from './bialetti.png'
+import aionair from './aionair.png'
+import genius from './genius.png'
 
 import cv from './cv.pdf';
 
@@ -97,5 +99,7 @@ export {
   selfDrivingCar,
   myPortfolio,
   bialetti,
+  aionair,
+  genius,
   cv
 };
