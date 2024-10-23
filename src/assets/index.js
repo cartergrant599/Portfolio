@@ -41,8 +41,6 @@ import oneforma from './company/oneforma.jpg';
 import scopic from './company/scopic.jpg';
 
 import electrisearch from './electrisearch.png'
-import mypurplespace from "./mypurplespace.png";
-import puertomadero from "./puertomadero.png";
 import spaceplush from "./spaceplush.png";
 import selfDrivingCar from './selfDrivingCar.png';
 import myPortfolio from './myPortfolio.png'
@@ -93,8 +91,6 @@ export {
   oneforma,
   scopic,
   electrisearch,
-  mypurplespace,
-  puertomadero,
   spaceplush,
   selfDrivingCar,
   myPortfolio,

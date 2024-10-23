@@ -1,5 +1,5 @@
 # Carter Grant Portfolio #
-<img src="https://ik.imagekit.io/r67xuhpwk/Screenshot%202023-11-15%20160742.png?updatedAt=1700093441493" width='100%'>
+<img src="/src/assets/projects.png" width='100%'>
 
 Welcome to the repository for my cutting-edge portfolio website! This project highlights my skills and projects in a sleek and interactive manner. Feel free to explore the code and adapt it for your own portfolio.
 
@@ -29,7 +29,7 @@ Check out the <a href="https://cartergrant-portfolio.vercel.app/" target="_blank
   - Caniuse-lite
   - Maath
 
-<img src="https://ik.imagekit.io/r67xuhpwk/myPortfolio.png?updatedAt=1699917306529" width='100%'>
+<img src="/src/assets/myPortfolio.png" width='100%'>
 
 ## 📑 Development Dependencies
 
